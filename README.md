@@ -1,7 +1,23 @@
 # early-morning-theme
 Just early morning it is 🌤️
 
-![Hello](https://drive.google.com/file/d/1iqkgyLNwjekLirE_6jKfBTHZ7PdQaz8j/view)
+✅ Ease on Eyes \
+✅ Unique Colour Combinations \
+✅ For Real Developers
+
+On this Documentation you will get `samples` and `installation guide`.
+
+##### Sample-1
+![sample-1](https://images.pexels.com/photos/24205851/pexels-photo-24205851/free-photo-of-web-developement.png)
+
+##### Sample-2
+![sample-2](https://images.pexels.com/photos/24205830/pexels-photo-24205830/free-photo-of-coding.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+##### Sample-3
+![sample-3](https://images.pexels.com/photos/24205885/pexels-photo-24205885/free-photo-of-programmer.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+##### Sample-4
+![sample-4](https://images.pexels.com/photos/24205924/pexels-photo-24205924/free-photo-of-web-developer.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## Installation
 
@@ -28,7 +44,7 @@ Now replace the whole `.json` code with the code of `early-morning.json` and sav
 
 #### Step-6
 Restart your vscode, then go to the settings like this
-`manage -> theme -> color theme`, then select the theme you have just edited. _And BOOMMMM!!!_
+`manage -> theme -> color theme`, then select the theme you have just edited. _Now Enjoy!!!_
 
 #### Handle Error
 If your theme doesn't change as wanted, then you might have made some mistakes during following the steps. Plese try to follow the steps properly.
