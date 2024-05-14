@@ -28,7 +28,7 @@ First download an useless theme from the vscode extension that you don't use nor
 Then open the extension folder of vscode following this path
 `c:\Users\Alex\.vscode\extensions`
 
-Here you will find all the extension list you've installed on your pc. Now find the recently installed useless theme extension on that list and open the folder. 
+Here you will find all the extension list you've installed on vscode. Now find the recently installed useless theme extension on that list and open the folder. 
 
 #### Step-3
 
@@ -43,7 +43,7 @@ Now open the `.json` file in vscode by double-clicking on it. You may find multi
 Now replace the whole `.json` code with the code of `early-morning.json` and save the file.
 
 #### Step-6
-Restart your vscode, then go to the settings like this
+Restart your vscode, then go to the theme settings like this
 `manage -> theme -> color theme`, then select the theme you have just edited. _Now Enjoy!!!_
 
 ### Handle Error
