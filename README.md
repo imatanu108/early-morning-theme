@@ -46,5 +46,5 @@ Now replace the whole `.json` code with the code of `early-morning.json` and sav
 Restart your vscode, then go to the settings like this
 `manage -> theme -> color theme`, then select the theme you have just edited. _Now Enjoy!!!_
 
-#### Handle Error
+### Handle Error
 If your theme doesn't change as wanted, then you might have made some mistakes during following the steps. Plese try to follow the steps properly.
