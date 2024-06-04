@@ -576,7 +576,7 @@
         {
             "scope": "support.function.git-rebase",
             "settings": {
-                "foreground": "#cba1dde3"
+                "foreground": "#c29bd3ea"
             }
         },
         {
@@ -611,7 +611,7 @@
                 "support.constant.handlebars"
             ],
             "settings": {
-                "foreground": "#cba1dde3"
+                "foreground": "#c29bd3ea"
             }
         },
         {
@@ -837,7 +837,7 @@
                 "support.constant.handlebars"
             ],
             "settings": {
-                "foreground": "#cba1dde3"
+                "foreground": "#c29bd3ea"
             }
         },
         {
@@ -865,7 +865,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#cba1dde3"
+                "foreground": "#c29bd3ea"
             }
         },
         {
